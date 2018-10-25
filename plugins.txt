@@ -1,0 +1,11 @@
+blueocean
+kubernetes
+github
+slack
+matrix-auth
+amazon-ecr
+github-oauth
+workflow-api
+workflow-aggregator
+workflow-durable-task-step
+workflow-support:2.20
