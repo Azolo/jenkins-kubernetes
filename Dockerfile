@@ -6,5 +6,4 @@ ENV TRY_UPGRADE_IF_NO_MARKER=true
 
 COPY plugins.txt .
 
-RUN /usr/local/bin/install-plugins.sh $(cat plugins.txt) && \
-    rm plugins.txt
+RUN /usr/local/bin/install-plugins.sh $(cat plugins.txt)
