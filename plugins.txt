@@ -1,3 +1,4 @@
+azure-ad
 blueocean
 kubernetes
 github
